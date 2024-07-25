@@ -14,7 +14,7 @@ html {
     box-sizing: border-box;
 body {
     margin: 0;
-    font-family: Inter, sans-serif;
+    font-family: Space Grotesk, sans-serif;
     background: url(Assets/dark.jpg);
     background-size: contain;
     color: white;
