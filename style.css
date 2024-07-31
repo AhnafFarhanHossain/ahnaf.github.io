@@ -59,10 +59,8 @@ li a{
     color: #f3f3f3;
     transition: all 0.3s ease;
 }
-li a:hover{
-    scale: 1.1;
-    transform: translateY(-8px);
-    font-weight: bold;
+li:hover{
+    scale: 1.2;
 }
 li a.hire{
     border: 2px solid white;
