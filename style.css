@@ -51,6 +51,7 @@ ul {
 }
 li {
     font-size: 1rem;
+    transition: all .3s ease;
 }
 li a{
     text-decoration: none;
