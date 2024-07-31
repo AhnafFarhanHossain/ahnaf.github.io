@@ -51,7 +51,6 @@ ul {
 }
 li {
     font-size: 1rem;
-    transition: all .3s ease;
 }
 li a{
     text-decoration: none;
@@ -61,7 +60,7 @@ li a{
     transition: all 0.3s ease;
 }
 li:hover{
-    scale: 1.2;
+    color: #16DB65;
 }
 li a.hire{
     border: 2px solid white;
